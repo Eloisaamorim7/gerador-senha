@@ -1,1 +1,1 @@
-# GeRaDoR-dE-sEnHa
+# gerador-senha
